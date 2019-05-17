@@ -23,7 +23,7 @@
         <div class="trigger">
           {% assign my_pages = site.pages | sort:"order"  %}
           {%- for my_page in my_pages -%}
-          {%- if my_page.title -%}
+          {%- if my_page.title or my_page.link_name -%}
           <a class="page-link" 
           href="{{ my_page.url | relative_url }}"
           style="{%- if page.url == my_page.url-%} color: grey; {%- endif -%};">
@@ -44,7 +44,7 @@
           text-justify: inter-word;
       }
       nav a {
-        font-size: normal;
+        font-size: smaller;
       }
     </style>
   </div>

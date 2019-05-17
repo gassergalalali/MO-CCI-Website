@@ -8,5 +8,9 @@ Built by: *Gasser Galal Ali*
 <a href="https://mo-cci.netlify.com/">Click to Test Deplyment</a>
 
 
-
-
+About
+Benefits and membership fees
+Student Development
+Research Development
+professional Development
+2019-2020 Ongoing activities... NEW from agreed upon priorities slide 5, 6, and 7

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Core Areas, Composition, and Dissemination
-order: "03"
-link_name: Areas
+title: Research Development
+order: "05"
+link_name: Research Development
 ---
 
 Core Areas, Composition, and Dissemination
@@ -29,7 +29,7 @@ workshops that aims to promote efficiency and
 prepare future company leaders.
 
 As an industry-funded entity, MO-CCI will be composed
-of both Contractors and Owners in Missouri. As such, this
+of both Contractor side (i.e. contractors, sub-contractors, suppliers, ...) and Owner side in Missouri. As such, this
 which will create an interactive forum to enhance
 mutual collaboration on future projects.
 

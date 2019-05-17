@@ -1,9 +1,18 @@
 ---
 layout: page
-title: Membership Grades and Associated Benefits
-order: "05"
-link_name: Membership
+title: Benefits and Membership
+order: "02"
+link_name: Benefits and Membership
 ---
+
+- Prime early access to student talents in interactive settings that better judge their abilities and potential.
+- Having proactive role in better preparing students to hit the ground running when they start their careers.
+- Practical and applied solutions for local and regional industry challenges using annual calls for research.
+- Tailored training and education opportunities that are delivered in the metropolitan area (Saint Louis initially).
+- Honing and strengthening the communication skills of the current employees of the industry partners through
+active engagement in the activities of the consortium, which will better help their growth as managers, VPs ... etc.
+- Provide annual forum for interaction between contractors and owners in Missouri.
+
 
 As follows, MO-CCI membership is as follows
 
@@ -60,6 +69,12 @@ As follows, MO-CCI membership is as follows
 </tbody>
 </table>
 
-<b>
-Based on Annual Revenue of $100 million or higher according to the Business Journal. If the Annual Revenue of the Company does not reach the aforementioned threshold value, the membership dues are 50% less. For startup companies that are interested to join MO-CCI, and whose Annual Revenue is less than $5 million, the Consortium Director may accommodate that portion of the $12,500 membership fees be in the form of an in-kind contribution - like software for student usage – that is essential for MO-CCI’s operations, if and when applicable.
-</b>
+<p>
+The annual membership fee for MO-CCI is $25,000. THis is based on 
+
+ Annual Revenue of $100 million or higher according to the Business Journal. If the Annual Revenue of the Company does not reach the aforementioned threshold value, the membership dues are 50% less. 
+
+MO-CCI represetned by its director and member companies can accept that a portion of memberhip fees be in the form of an in-kind contribution.
+
+For startup companies that are interested to join MO-CCI, and whose Annual Revenue is less than $5 million, the Consortium Director may accommodate that portion of the $12,500 membership fees be in the form of an in-kind contribution - like software for student usage – that is essential for MO-CCI’s operations, if and when applicable.
+</p>
