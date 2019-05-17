@@ -1,10 +1,10 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">  
+  <div class="wrapper" style="text-align: center;">  
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <div>
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img style="width:100%" src="{{ '/files/header.png' | relative_url }}"/>
+    <a style="text-align: center" rel="author" href="{{ "/" | relative_url }}">
+      <img style="width:100%; max-width:70vw;" src="{{ '/files/header.png' | relative_url }}"/>
     </a>
     </div>
     {%- if page_paths -%}
