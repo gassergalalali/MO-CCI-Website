@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-md bg-dark navbar-dark">    
+    <!-- Toggler/collapsibe Button -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <!-- Navbar links -->
+    <div class="collapse navbar-collapse justify-content-center" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+            {% assign pages = site.pages | sort: "order" %}
+            {%- for p in pages -%}
+            {%- if p.title or p.link_name-%}
+            <li class="nav-item">
+                <a 
+                class="nav-link {% if p.url == page.url %} active {% endif %}" 
+                href="{{ p.url | relative_url }}">
+                    {{ p.link_name }}
+                </a>
+            </li>
+            {% endif %}
+            {%- endfor -%}
+        </ul>
+    </div>
+</nav> 
