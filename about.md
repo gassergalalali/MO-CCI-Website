@@ -29,7 +29,7 @@ link_name: About
                     </li>
                 </ul>
                 <p>
-                    As an industry-funded entity, MO-CCI will be composed of both the contractor side (i.e. contractors, sub-contractors, suppliers, ...) and the owner side in Missouri. As such, this which will create an interactive forum to enhance mutual collaboration on future projects.
+                    As an industry-funded entity, MO-CCI will be composed of both the contractor side (i.e. contractors, sub-contractors, suppliers, etc) and the owner side in Missouri. As such, this which will create an interactive forum to enhance mutual collaboration on future projects.
                 </p>
                 <p>
                     MO-CCI will organize an Annual Conference to: (a) report and disseminate results and findings related to all activities in the prior year; (b) provide various seminars
