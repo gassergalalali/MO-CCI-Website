@@ -15,7 +15,7 @@ link_name: Research Development
 
 - MO-CCI will fund every year one or two or even more applied research topics with about 12 to 24 month study period depending on the topic and the required output of the industry partners.
 
-- The list of potential research topics will be generated annually based on an industry needs survey as well as suggestions from associated faculty at Missouri S&T
+- The list of potential research topics will be generated annually based on an industry needs survey as well as suggestions from associated faculty at Missouri S&T.
 
 - Throughout the project duration, each funded team will work closely with representatives from member companies of MO-CCI to ensure alignment and applicability of the research.
 

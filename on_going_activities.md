@@ -10,17 +10,17 @@ link_name: 2019-2020 Ongoing Activities
         <h2>Student Development</h2>
         <p>
             <ul>
-                <li>Creating a new minor in construction engineering and management (CEM) as a first step towards having a BSc in CEM in the years to come.</li>
-                <li>Cross-list some architectural engineering courses related to building systems with civil engineering.</li>
-                <li>Cross-list engineering management courses related to safety with civil engineering.</li>
+                <li>Creating a new minor in construction engineering and management (CEM) as a first step towards having a BSc in CEM in the years to come</li>
+                <li>Cross-list some architectural engineering courses related to building systems with civil engineering</li>
+                <li>Cross-list engineering management courses related to safety with civil engineering</li>
             </ul>
         </p>
         <h2>Research Development</h2>
         <p>
             Fund 2 new research projects that are related to:
             <ul>
-                <li>Developing Best Practices for Modularization in the Construction Industry; and</li>
-                <li>Creating Guidelines for Collaborative Scheduling in the Construction Industry.</li>
+                <li>Developing Best Practices for Modularization in the Construction Industry</li>
+                <li>Creating Guidelines for Collaborative Scheduling in the Construction Industry</li>
             </ul>
         </p>
         <h3>Professional Development</h3>

@@ -47,7 +47,8 @@ link_name: About
                         Islam H. El-adaway, Ph.D., P.E., CEng., F.ASCE, F.ICE 
                     </a><br/>
                     Hurst-McCarthy Professor of Construction Engineering and Management <br/>
-                    Department of Civil, Architectural, and Environmental Engineering/Department of Engineering Management and Systems Engineering <br/>
+                    Department of Civil, Architectural, and Environmental Engineering <br/>
+                    and Department of Engineering Management and Systems Engineering <br/>
                     Missouri University of Science and Technology
                 </p>
             </div>

@@ -18,15 +18,15 @@ link_name: Benefits and Membership
         <hr/>
         <ul>
             <li>Ability to propose list of potential topics for student development, research projects, and professional development</li>
-            <li>Voting privileges in “selecting topics from the generated list of potential ones” for student development, research projects, and professional development for the new year</li>
-            <li>Industry member Personnel participation in any funded research project and having ability to share more “company specific” experiences</li>
+            <li>Voting privileges in selecting topics from the generated list of potential ones for student development, research projects, and professional development for the new year</li>
+            <li>Industry member Personnel participation in any funded research project and having ability to share more company-specific experiences</li>
             <li>Free access to the MO-CCI database of research reports including results, best practices, and any developed tools</li>
             <li>Leadership and communication development to industry members’ personnel</li>
         </ul>
         <hr/>
         <h3>Membership Fees</h3>
         <p>The annual membership fee for MO-CCI is $25,000. THis is based on annual revenue of $100 million or higher according to the Business Journal. If the Annual Revenue of the Company does not reach the aforementioned threshold value, the membership dues are 50% less.</p>
-        <p>MO-CCI represetned by its director and member companies can accept that a portion of memberhip fees be in the form of an in-kind contribution.</p>
+        <p>MO-CCI, represented by its director and member companies, can accept that a portion of membership fees be in the form of an in-kind contribution.</p>
         <p>For startup companies that are interested to join MO-CCI, and whose Annual Revenue is less than $5 million, the Consortium Director may accommodate that portion of the $12,500 membership fees be in the form of an in-kind contribution - like software for student usage – that is essential for MO-CCI’s operations, if and when applicable.</p>
     </div>
 </div>
