@@ -10,7 +10,7 @@ link_name: About
             <div class="card-body">
                 <h3>Word from the director</h3>
                 <p>
-                The Missouri Consortium for Construction Innovation (MO-CCI) is a partnership between academia and industry that aims at optimizing corporate performance and project lifecycle through an integrated construction engineering and management (CEM) vision directed at student development research, and professional development.
+                The Missouri Consortium for Construction Innovation (MO-CCI) is a partnership between academia and industry that aims at optimizing corporate performance and project life-cycle through an integrated construction engineering and management (CEM) vision directed at student development research, and professional development.
                 </p>
                 <p>
                     The objectives of MO-CCI are realized through the following three core areas:

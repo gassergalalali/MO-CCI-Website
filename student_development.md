@@ -13,28 +13,11 @@ link_name: Student Development
 
 ### The Student Development is addressed as follows:
 
-- MO-CCI will pro-actively help its industry partners
-  have an early on impact towards shaping the
-  qualities of MST graduates to hit the ground running
-  when joining their companies.
+- MO-CCI will pro-actively help its industry partners have an early on impact towards shaping the qualities of Missouri S&T graduates to hit the ground when joining their companies.
 
-- Using yearly surveys (sample available), MO-CCI will
-  identify industry needs in their new hires to improve
-  associated curriculum at MST. Potential areas can
-  include: enhanced reading of drawings; better
-  understanding of specs; first-hand knowledge of
-  how designs (civil, electrical, and mechanical) are
-  actually constructed in the field; uses of visualization
-  techniques in construction; learning early-on about
-  the importance of flexibility towards travel and
-  relocation in the construction industry; and
-  improving different communication skills.
+- Using yearly surveys, MO-CCI will identify industry needs in their new hires to improve associated curriculum at Missouri S&T. Potential areas can include: enhanced reading of drawings; better understanding of specs; first-hand knowledge of how designs (civil, electrical, and mechanical) are actually constructed in the field; uses of visualization techniques in construction; learning early-on about the importance of flexibility towards travel and relocation in the construction industry; and improving different communication skills.
 
-- This effort will also help the member companies
-  companies further develop the communication skills
-  of their star performing professionals who will be
-  chosen to deliver such classes. Thus, it represents an
-  optimal win/win situation for all stakeholders.
+- This effort will also help the member companies further develop the communication skills of their star performing professionals who will be chosen to deliver such classes. Thus, it represents an optimal win/win situation for all stakeholders.
 
 <style>
     .logo-container {
