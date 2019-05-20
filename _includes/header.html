@@ -1,36 +1,24 @@
 <div class="container-fluid header">
   <div class="row">
-    <div class="col-sm-12" style="text-align: center;">
-        <img src="{{ '/files/mo-cci.png' | relative_url }}"/>
-    </div>
+      <div class="col-sm-12" style="text-align: center;">
+          <img src="{{ '/files/mo-cci.png' | relative_url }}"/>
+      </div>
   </div>
 </div>
 {%- include navbar.html -%}
 
 <style>
-  .header {
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size: fill;
-    background-image: url({{ "/files/backgrounds/architecture-768432_1920.jpg" | relative_url }});
-    opacity: 1;
-  }
+    .header {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: fill;
+        background-image: url({{ "/files/backgrounds/header_background.jpg" | relative_url }});
+        opacity: 1;
+    }
 
-  .header img {
-    max-height: 10em; 
-    mix-blend-mode: multiply; 
-    max-width:100%;
-  }
-
-  article p {
-    text-align: justify;
-  }
-
-  article li {
-    text-align: justify;
-  }
-
-  article img {
-    max-width: 100%;
-  }
+    .header img {
+        max-height: 10em;
+        mix-blend-mode: multiply;
+        max-width: 100%;
+    }
 </style>

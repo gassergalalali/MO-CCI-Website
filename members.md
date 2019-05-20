@@ -78,7 +78,7 @@ link_name: Members
         font-family: Impact, Charcoal, sans-serif;
     }
     body {
-        background-image: url({{ '/files/backgrounds/architecture-22039_1920.jpg' | relative_url }});
+        background-image: url({{ '/files/backgrounds/members_background.jpg' | relative_url }});
         background-repeat: no-repeat;
         background-size: cover;
     }
