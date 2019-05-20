@@ -13,7 +13,7 @@ link_name: Members
         </tr>
         <tr>
             <td>
-                <a href="http://arcoconstruction.com/"><img src="{{ '/files/member_logos/arco.png' | relative_url}}"/></a>
+                <a href="http://arcoconstruction.com/"><img src="{{ '/files/member_logos/arco.jpg' | relative_url}}"/></a>
             </td>
             <td>
                 <a href="http://arcoconstruction.com/">Arco Construction</a>
@@ -21,7 +21,7 @@ link_name: Members
         </tr>
         <tr>
             <td>
-                <a href="https://claycorp.com/"><img src="{{ '/files/member_logos/clayco.jpg' | relative_url}}"/></a>
+                <a href="https://claycorp.com/"><img src="{{ '/files/member_logos/clayco.jpeg' | relative_url}}"/></a>
             </td>
             <td>
                 <a href="https://claycorp.com/">Clayco</a>
@@ -58,7 +58,7 @@ link_name: Members
         </tr>
         <tr>
             <td>
-                <a href="https://www.garney.com/"><img src="{{ '/files/member_logos/garney.png' | relative_url}}"/></a>
+                <a href="https://www.garney.com/"><img src="{{ '/files/member_logos/garney.jpg' | relative_url}}"/></a>
             </td>
             <td>
                 <a href="https://www.garney.com/">Garney</a>
