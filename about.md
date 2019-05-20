@@ -23,7 +23,7 @@ link_name: About
                         <a href="{{ '/student_development.html' | relative_url }}"><b>Student Development</b></a>: Improve the quality of educational preparation of students so as to better serve industry needs by having graduates who can hit the ground running as well as provide multiple first-hand forums for member companies towards  evaluating and networking with current students.
                     </li>
                     <li>
-                        <a href="{{ '/research_development.html' | relative_url }}"><b>Research Development</b></a>: Conduct applied and practical research tailored to the needs of the industry partners. This is similar to the model of the Construction Industry         Institute (CII) but in a way more “personal” approach that is tailored to the sole needs of Missouri’s construction industry.
+                        <a href="{{ '/research_development.html' | relative_url }}"><b>Research Development</b></a>: Conduct applied and practical research tailored to the needs of the industry partners, and the sole needs of Missouri’s construction industry.
                     </li>
                     <li>
                         <a href="{{ '/professional_development.html' | relative_url }}"><b>Professional Development</b></a>: Enhance the skills of industry personnel through continuing education workshops that aims to promote efficiency and prepare future company leaders.
