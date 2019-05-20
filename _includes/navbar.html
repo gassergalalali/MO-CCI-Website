@@ -1,24 +1,53 @@
-<nav class="navbar navbar-expand-md bg-dark navbar-dark">    
-    <!-- Toggler/collapsibe Button -->
+
+<nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
     </button>
-    
-    <!-- Navbar links -->
     <div class="collapse navbar-collapse justify-content-center" id="collapsibleNavbar">
         <ul class="navbar-nav">
-            {% assign pages = site.pages | sort: "order" %}
-            {%- for p in pages -%}
-            {%- if p.title or p.link_name-%}
             <li class="nav-item">
-                <a 
-                class="nav-link {% if p.url == page.url %} active {% endif %}" 
-                href="{{ p.url | relative_url }}">
-                    {{ p.link_name }}
+                {% assign p = '/about.html' | relative_url %}
+                <a class="nav-link {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                    About
                 </a>
             </li>
-            {% endif %}
-            {%- endfor -%}
+            <li class="nav-item">
+                {% assign p = '/members.html' | relative_url %}
+                <a class="nav-link {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                    Members
+                </a>
+            </li>
+            <li class="nav-item">
+                {% assign p = '/benefits_and_membership.html' | relative_url %}
+                <a class="nav-link {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                    Benefits and Membership
+                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">
+                    Development Areas
+                </a>
+                <div class="dropdown-menu">
+                    {% assign p = '/student_development.html' | relative_url %}
+                    <a class="dropdown-item {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                        Student Development
+                    </a>
+                    {% assign p = '/research_development.html' | relative_url %}
+                    <a class="dropdown-item {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                        Research Development
+                    </a>
+                    {% assign p = '/professional_development.html' | relative_url %}
+                    <a class="dropdown-item {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                        Professional Development
+                    </a>
+                </div>
+            </li>
+            <li class="nav-item">
+                {% assign p = '/on_going_activities.html' | relative_url %}
+                <a class="nav-link {% if p==page.url %}active{% endif %}" href="{{ p }}">
+                    2019-2020 Ongoing Activities
+                </a>
+            </li>
         </ul>
     </div>
 </nav> 

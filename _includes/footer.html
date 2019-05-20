@@ -1,16 +1,40 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        Missouri Consortium for Construction Innovation (MO-CCI) <br/>
-        <a href="https://care.mst.edu/">Department of Civil, Architectural, and Environmental Engineering</a> <br/> 
-        <a href="https://www.mst.edu/">Missouri University of Science and Technology</a> <br/>
-        211 Butler-Carlton Hall, 1401 N. Pine St., <br/>
-        Rolla, Missouri 65409-0030 <br/>
-      </div>
+<footer class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12">
+      <table style="margin:auto;">
+        <tbody>
+          <tr>
+            <td>
+              <img style="max-width: 100%; width: 10em;"
+                src="{{'/files/civil_architectural_and_enviromental_engineering_stacked_logo_stacked.png' | relative_url }}" />
+            </td>
+            <td>
+              <a href="{{ "/" | relative_url }}">Missouri Consortium for Construction Innovation (MO-CCI)</a><br />
+              <a href="https://care.mst.edu/">Department of Civil, Architectural, and Environmental Engineering</a>
+              <br />
+              <a href="https://www.mst.edu/">Missouri University of Science and Technology</a> <br />
+              211 Butler-Carlton Hall, 1401 N. Pine St., <br />
+              Rolla, Missouri <br />
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
-
   </div>
 </footer>
+
+<style>
+  footer {
+    font-size: small;
+    font-weight: bold;
+    background-color: white;
+    border-top: 2px solid darkgrey;
+    margin-top: 2em;
+    width: 100vw;
+  }
+
+  footer table td {
+    margin: 1em;
+    padding: 1em;
+  }
+</style>

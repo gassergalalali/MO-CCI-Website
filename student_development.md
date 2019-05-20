@@ -5,37 +5,41 @@ order: "03"
 link_name: Student Development
 ---
 
-Core Areas, Composition, and Dissemination
-The objectives of MO-CCI are realized through the
-following three core areas:
+<div class="logo-container">
+    <img 
+    style="width:15em; max-width=100%; margin:1em;" 
+    src="{{ '/files/core_areas/core-areas-student.png' | relative_url }}"/>
+</div>
 
-1. Student Development: Improve the quality of
-educational preparation of students so as to better
-serve industry needs by having graduates who can
-hit the ground running as well as provide multiple
-first-hand forums for member companies towards
-evaluating and networking with current students.
+### The Student Development is addressed as follows:
 
-2. Research: Conduct applied and practical research
-tailored to the needs of the industry partners. This is
-similar to the model of the Construction Industry
-Institute (CII) but in a way more “personal” approach
-that is tailored to the sole needs of Missouri’s
-construction industry.
+- MO-CCI will pro-actively help its industry partners
+  have an early on impact towards shaping the
+  qualities of MST graduates to hit the ground running
+  when joining their companies.
 
-3. Professional Development: Enhance the skills of
-industry personnel through continuing education
-workshops that aims to promote efficiency and
-prepare future company leaders.
+- Using yearly surveys (sample available), MO-CCI will
+  identify industry needs in their new hires to improve
+  associated curriculum at MST. Potential areas can
+  include: enhanced reading of drawings; better
+  understanding of specs; first-hand knowledge of
+  how designs (civil, electrical, and mechanical) are
+  actually constructed in the field; uses of visualization
+  techniques in construction; learning early-on about
+  the importance of flexibility towards travel and
+  relocation in the construction industry; and
+  improving different communication skills.
 
-As an industry-funded entity, MO-CCI will be composed
-of both Contractor side (i.e. contractors, sub-contractors, suppliers, ...) and Owner side in Missouri. As such, this
-which will create an interactive forum to enhance
-mutual collaboration on future projects.
+- This effort will also help the member companies
+  companies further develop the communication skills
+  of their star performing professionals who will be
+  chosen to deliver such classes. Thus, it represents an
+  optimal win/win situation for all stakeholders.
 
-MO-CCI will organize an Annual Conference to: (a) report
-and disseminate results and findings related to all
-activities in the prior year; (b) provide various seminars
-by CEM academic and industry experts; and (3) develop
-plans, strategies, and priorities for future activities. This
-will provide continued loop for improved performance.
+<style>
+    .logo-container {
+        text-align:center; 
+        background-size: cover;
+        background-image: url({{ '/files/backgrounds/empty-314554_1280.jpg' | relative_url }});
+    }
+</style>

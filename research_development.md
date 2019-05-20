@@ -5,37 +5,39 @@ order: "04"
 link_name: Research Development
 ---
 
-Core Areas, Composition, and Dissemination
-The objectives of MO-CCI are realized through the
-following three core areas:
+<div class="logo-container">
+    <img 
+    style="width:15em; max-width=100%; margin:1em;" 
+    src="{{ '/files/core_areas/core-areas-research.png' | relative_url }}"/>
+</div>
 
-1. Student Development: Improve the quality of
-educational preparation of students so as to better
-serve industry needs by having graduates who can
-hit the ground running as well as provide multiple
-first-hand forums for member companies towards
-evaluating and networking with current students.
+### The Research objective will be satisfied as follows:
 
-2. Research: Conduct applied and practical research
-tailored to the needs of the industry partners. This is
-similar to the model of the Construction Industry
-Institute (CII) but in a way more “personal” approach
-that is tailored to the sole needs of Missouri’s
-construction industry.
+- MO-CCI will fund every
+year one or two or even more applied research
+topics with about 12 to 24 month study period
+depending on the topic and the required output of
+the industry partners.
 
-3. Professional Development: Enhance the skills of
-industry personnel through continuing education
-workshops that aims to promote efficiency and
-prepare future company leaders.
+- The list of potential research topics will be generated
+annually based on an industry needs survey
+as well as suggestions from associated faculty at Missouri S&T
 
-As an industry-funded entity, MO-CCI will be composed
-of both Contractor side (i.e. contractors, sub-contractors, suppliers, ...) and Owner side in Missouri. As such, this
-which will create an interactive forum to enhance
-mutual collaboration on future projects.
+- Throughout the project duration, each funded team
+will work closely with representatives from member
+companies of MO-CCI to ensure alignment and
+applicability of the research.
 
-MO-CCI will organize an Annual Conference to: (a) report
-and disseminate results and findings related to all
-activities in the prior year; (b) provide various seminars
-by CEM academic and industry experts; and (3) develop
-plans, strategies, and priorities for future activities. This
-will provide continued loop for improved performance.
+- In addition to providing a formal presentation during
+the Annual Conference, each research team will
+prepare a report including results, best practices,
+and any developed tools that will be shared with all
+industry partners.
+
+<style>
+    .logo-container {
+        text-align:center; 
+        background-size: cover;
+        background-image: url({{ '/files/backgrounds/books-462579_1920.jpg' | relative_url }});
+    }
+</style>

@@ -1,41 +1,46 @@
 ---
 layout: page
-title: Research Development
+title: Professional Development
 order: "05"
-link_name: Research Development
+link_name: Professional Development
 ---
 
-Core Areas, Composition, and Dissemination
-The objectives of MO-CCI are realized through the
-following three core areas:
+<div class="logo-container">
+    <img 
+    style="width:15em; max-width=100%; margin:1em;" 
+    src="{{ '/files/core_areas/core-areas-professional.png' | relative_url }}"/>
+</div>
 
-1. Student Development: Improve the quality of
-educational preparation of students so as to better
-serve industry needs by having graduates who can
-hit the ground running as well as provide multiple
-first-hand forums for member companies towards
-evaluating and networking with current students.
+### The Professional Development objective will be satisfied as follows:
 
-2. Research: Conduct applied and practical research
-tailored to the needs of the industry partners. This is
-similar to the model of the Construction Industry
-Institute (CII) but in a way more “personal” approach
-that is tailored to the sole needs of Missouri’s
-construction industry.
+- MO-CCI will offer workshops to satisfy
+the yearly identified areas that will help mid-career
+engineers at consortium member companies
+develop their skills as they evolve as project
+managers, top officials, and company leaders.
 
-3. Professional Development: Enhance the skills of
-industry personnel through continuing education
-workshops that aims to promote efficiency and
-prepare future company leaders.
+- The yearly needs of the member companies will be
+identified using a survey. These
+workshops will be open to all companies, and if
+needed, they can be tailored to the employees of
+one specific companies to satisfy any privacy or
+proprietary needs for such company.
 
-As an industry-funded entity, MO-CCI will be composed
-of both Contractor side (i.e. contractors, sub-contractors, suppliers, ...) and Owner side in Missouri. As such, this
-which will create an interactive forum to enhance
-mutual collaboration on future projects.
+- It is expected that such workshops will be taught by
+selected expert consultants nationwide with some
+support from full time and adjunct faculty at MST.
+Also, it is foreseen that registration fees for such
+workshops will range from $500-$1,000 per person
+depending on the topic. However, MO-CCI member
+companies will get discounted off the normal rate
+based  50% off,
+with an additional 25% discount for group
+registration of 5 or more.
 
-MO-CCI will organize an Annual Conference to: (a) report
-and disseminate results and findings related to all
-activities in the prior year; (b) provide various seminars
-by CEM academic and industry experts; and (3) develop
-plans, strategies, and priorities for future activities. This
-will provide continued loop for improved performance.
+<style>
+    .logo-container {
+        text-align:center; 
+        background-size: cover;
+        background-image: url({{ '/files/backgrounds/workshop-2209239_1920.jpg' | relative_url }});
+    }
+</style>
