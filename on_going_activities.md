@@ -23,7 +23,7 @@ link_name: 2019-2020 Ongoing Activities
                 <li>Creating Guidelines for Collaborative Scheduling in the Construction Industry</li>
             </ul>
         </p>
-        <h3>Professional Development</h3>
+        <h2>Professional Development</h2>
         <p>
             Organize workshops that provide training opportunities related to:
             <ul>
@@ -37,7 +37,7 @@ link_name: 2019-2020 Ongoing Activities
 
 <style>
     body {
-        background-image: url({{ '/files/backgrounds/workshop-2209239_1920.jpg' | relative_url }});
+        background-image: url({{ '/files/backgrounds/construction-site-1359136_1920.jpg' | relative_url }});
         background-repeat: no-repeat;
         background-size: cover;
     }

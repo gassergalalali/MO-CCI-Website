@@ -8,7 +8,6 @@ link_name: About
     <div class="col-md-8 offset-md-2">
         <div class="card">
             <div class="card-body">
-                <h3>Word from the director</h3>
                 <p>
                 The Missouri Consortium for Construction Innovation (MO-CCI) is a partnership between academia and industry that aims at optimizing corporate performance and project life-cycle through an integrated construction engineering and management (CEM) vision directed at student development research, and professional development.
                 </p>
@@ -20,17 +19,17 @@ link_name: About
                 </div>
                 <ul>
                     <li>
-                        <a href="{{ '/student_development.html' | relative_url }}"><b>Student Development</b></a>: Improve the quality of educational preparation of students so as to better serve industry needs by having graduates who can hit the ground running as well as provide multiple first-hand forums for member companies towards  evaluating and networking with current students.
+                        <b>Student Development</b>: Improve the quality of educational preparation of students so as to better serve industry needs by having graduates who can hit the ground running as well as provide multiple first-hand forums for member companies towards  evaluating and networking with current students.
                     </li>
                     <li>
-                        <a href="{{ '/research_development.html' | relative_url }}"><b>Research Development</b></a>: Conduct applied and practical research tailored to the needs of the industry partners, and the sole needs of Missouri’s construction industry.
+                        <b>Research Development</b>: Conduct applied and practical research tailored to the needs of the industry partners, and the sole needs of Missouri’s construction industry.
                     </li>
                     <li>
-                        <a href="{{ '/professional_development.html' | relative_url }}"><b>Professional Development</b></a>: Enhance the skills of industry personnel through continuing education workshops that aims to promote efficiency and prepare future company leaders.
+                        <b>Professional Development</b>: Enhance the skills of industry personnel through continuing education workshops that aims to promote efficiency and prepare future company leaders.
                     </li>
                 </ul>
                 <p>
-                    As an industry-funded entity, MO-CCI will be composed of both Contractor side (i.e. contractors, sub-contractors, suppliers, ...) and Owner side in Missouri. As such, this which will create an interactive forum to enhance mutual collaboration on future projects.
+                    As an industry-funded entity, MO-CCI will be composed of both the contractor side (i.e. contractors, sub-contractors, suppliers, ...) and the owner side in Missouri. As such, this which will create an interactive forum to enhance mutual collaboration on future projects.
                 </p>
                 <p>
                     MO-CCI will organize an Annual Conference to: (a) report and disseminate results and findings related to all activities in the prior year; (b) provide various seminars
@@ -42,13 +41,13 @@ link_name: About
                 <p>
                     Sincerely,
                 </p>
-                <p style="text-align:right;">
+                <p>
                     <a href="https://web.mst.edu/~eladawayi">
                         Islam H. El-adaway, Ph.D., P.E., CEng., F.ASCE, F.ICE 
                     </a><br/>
-                    Hurst-McCarthy Professor of Construction Engineering and Management <br/>
+                    Hurst-McCarthy Professor and Director of MO-CCI<br/>
                     Department of Civil, Architectural, and Environmental Engineering <br/>
-                    and Department of Engineering Management and Systems Engineering <br/>
+                    Department of Engineering Management and Systems Engineering <br/>
                     Missouri University of Science and Technology <br/>
                     <a href="mailto:eladaway@mst.edu">eladaway@mst.edu</a>
                 </p>
@@ -59,11 +58,8 @@ link_name: About
 
 <style>
     body {
-        background-image: url({{ '/files/backgrounds/writing.jpg' | relative_url }});
+        background-image: url({{ '/files/backgrounds/building-768815_1920.jpg' | relative_url }});
         background-repeat: no-repeat;
         background-size: cover;
-    }
-    .card {
-        background-color: #efede6;
     }
 </style>

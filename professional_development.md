@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Professional Development
 order: "05"
 link_name: Professional Development
 ---
@@ -11,7 +10,7 @@ link_name: Professional Development
     src="{{ '/files/core_areas/core-areas-professional.png' | relative_url }}"/>
 </div>
 
-### The Professional Development objective will be satisfied as follows:
+## The Professional Development objective will be satisfied as follows:
 
 - MO-CCI will offer workshops to satisfy the yearly identified areas that will help mid-career engineers at consortium member companies develop their skills as they evolve as project managers, top officials, and company leaders.
 

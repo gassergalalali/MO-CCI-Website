@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research Development
 order: "04"
 link_name: Research Development
 ---
@@ -11,7 +10,7 @@ link_name: Research Development
     src="{{ '/files/core_areas/core-areas-research.png' | relative_url }}"/>
 </div>
 
-### The Research objective will be satisfied as follows:
+## The Research objective will be satisfied as follows:
 
 - MO-CCI will fund every year one or two or even more applied research topics with about 12 to 24 month study period depending on the topic and the required output of the industry partners.
 

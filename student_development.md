@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Student Development
 order: "03"
 link_name: Student Development
 ---
@@ -11,7 +10,7 @@ link_name: Student Development
     src="{{ '/files/core_areas/core-areas-student.png' | relative_url }}"/>
 </div>
 
-### The Student Development is addressed as follows:
+## The Student Development is addressed as follows:
 
 - MO-CCI will pro-actively help its industry partners have an early on impact towards shaping the qualities of Missouri S&T graduates to hit the ground when joining their companies.
 
