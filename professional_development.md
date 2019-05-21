@@ -1,7 +1,5 @@
 ---
 layout: page
-order: "05"
-link_name: Professional Development
 ---
 
 <div class="logo-container">

@@ -1,7 +1,5 @@
 ---
 layout: page
-order: "04"
-link_name: Research Development
 ---
 
 <div class="logo-container">

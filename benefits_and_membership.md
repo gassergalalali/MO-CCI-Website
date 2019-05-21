@@ -17,9 +17,7 @@ link_name: Benefits and Membership
         </ul>
         <hr/>
         <h1>Membership Fees</h1>
-        <p>The annual membership fee for MO-CCI is $25,000. THis is based on annual revenue of $100 million or higher according to the Business Journal. If the Annual Revenue of the Company does not reach the aforementioned threshold value, the membership dues are 50% less.</p>
-        <p>MO-CCI, represented by its director and member companies, can accept that a portion of membership fees be in the form of an in-kind contribution.</p>
-        <p>For startup companies that are interested to join MO-CCI, and whose Annual Revenue is less than $5 million, the Consortium Director may accommodate that portion of the $12,500 membership fees be in the form of an in-kind contribution - like software for student usage – that is essential for MO-CCI’s operations, if and when applicable.</p>
+        <p>The annual membership fee for MO-CCI is $25,000. This is based on annual revenue of $100 million or higher according to the Business Journal. If the annual revenue of the company does not reach the aforementioned threshold value, the membership dues are 50% less. MO-CCI, represented by its director and member companies, can accept that a portion of membership fees be in the form of an in-kind contribution.</p>
     </div>
 </div>
 

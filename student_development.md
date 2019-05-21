@@ -1,7 +1,5 @@
 ---
 layout: page
-order: "03"
-link_name: Student Development
 ---
 
 <div class="logo-container">
