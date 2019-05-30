@@ -12,6 +12,7 @@ link_name: Members
         <a href="https://www.mccarthy.com/"><img src="{{ '/files/member_logos/mccarthy.jpg' | relative_url}}"/></a>
         <a href="https://www.bjc.org/"><img src="{{ '/files/member_logos/bjc.jpg' | relative_url}}"/></a>
         <a href="https://brinkmannconstructors.com/"><img src="{{ '/files/member_logos/brinkmann.png' | relative_url}}"/></a>
+        <a href="https://www.greensfelder.com/"><img src="{{ '/files/member_logos/greensfelder.png' | relative_url}}"/></a>
         <h1>Donors</h1>
         <a href="https://www.garney.com/"><img src="{{ '/files/member_logos/garney.jpg' | relative_url}}"/></a>
     </div>
